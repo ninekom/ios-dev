@@ -78,12 +78,12 @@
     * [Switches](ui/bbb/controls/switches.md)
     * [Text Fields](ui/bbb/controls/text-fields.md)
     * [Buttons](ui/bbb/controls/buttons.md)
-  * [Extensions](ui/bbb/extensions.md)
-  * [Custom Keyboards](ui/bbb/custom-keyboards.md)
-  * [File Providers](ui/bbb/file-providers.md)
-  * [Messaging](ui/bbb/messaging.md)
-  * [Photo Editing](ui/bbb/photo-editing.md)
-  * [Sharing and Actions](ui/bbb/sharing-and-actions.md)
+  * [Extensions](ui/bbb/extensions/README.md)
+    * [Sharing and Actions](ui/bbb/extensions/sharing-and-actions.md)
+    * [Photo Editing](ui/bbb/extensions/photo-editing.md)
+    * [Messaging](ui/bbb/extensions/messaging.md)
+    * [File Providers](ui/bbb/extensions/file-providers.md)
+    * [Custom Keyboards](ui/bbb/extensions/custom-keyboards.md)
 * [Untitled](ui/untitled.md)
 
 ## Implementation
