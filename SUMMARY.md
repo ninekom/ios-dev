@@ -35,7 +35,7 @@
   * [Control Flow](programming/swift/control-flow.md)
   * [Untitled](programming/swift/untitled-4.md)
 * [Life cycle](programming/aaa/README.md)
-  * [a1](programming/aaa/a1.md)
+  * [Intro](programming/aaa/a1.md)
 * [UIKIT](programming/bbb.md)
 * [Untitled](programming/untitled.md)
 
