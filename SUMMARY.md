@@ -2,6 +2,7 @@
 
 * [ios-dev](README.md)
 * [Introduction](introduction.md)
+* [User manual](user-manual.md)
 
 ## Beginning
 
