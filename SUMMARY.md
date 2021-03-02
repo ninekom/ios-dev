@@ -39,8 +39,13 @@
   * [Intro](programming/aaa/a1.md)
 * [UIKIT](programming/bbb/README.md)
   * [Icons and Images](programming/bbb/icons-and-images.md)
-  * [Bars](programming/bbb/untitled.md)
+  * [Bars](programming/bbb/bars.md)
   * [Navigation Bars](programming/bbb/navigation-bars.md)
+  * [Search Bars](programming/bbb/search-bars.md)
+  * [Sidebars](programming/bbb/sidebars.md)
+  * [Tab Bars](programming/bbb/tab-bars.md)
+  * [Status Bars](programming/bbb/status-bars.md)
+  * [Toolbars](programming/bbb/toolbars.md)
   * [Views](programming/bbb/views.md)
   * [Controls](programming/bbb/controls.md)
   * [Extensions](programming/bbb/extensions.md)
@@ -52,4 +57,5 @@
 ---
 
 * [Workshop](workshop.md)
+* [Untitled](untitled.md)
 
