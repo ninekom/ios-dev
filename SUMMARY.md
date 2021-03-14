@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🟡 ios-dev](README.md)
+* [🟡 iOS Development](README.md)
 * [Introduction](introduction.md)
 * [✍️ User manual](user-manual.md)
 

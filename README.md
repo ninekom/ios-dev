@@ -2,9 +2,9 @@
 description: iOS Developer
 ---
 
-# 🟡 ios-dev
+# 🟡 iOS Development
 
-## iOS Developer
+## iOS Development
 
 ![](.gitbook/assets/alvaro-reyes-lxx1hwmp67e-unsplash.jpg)
 
