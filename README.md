@@ -1,3 +1,7 @@
+---
+description: iOS Developer
+---
+
 # 🟡 ios-dev
 
 
